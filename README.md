@@ -4,6 +4,7 @@
 
 <h2>
 -External Dependence Module: "colorama"
+<br>
 -How to install the external dependence?:
 	"pip install colorama"
 </h2>
